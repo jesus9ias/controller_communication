@@ -8,11 +8,14 @@
 	</head>
 	<body>
 		<div id="myapp" ng-app="app">
+			<h1>Type something</h1>
 			<div class="block" ng-controller="oneController as one">
+				<p>One Controller</p>
 				<input ng-model="field" ng-change="change()" />
 			</div>
 
 			<div class="block" ng-controller="twoController as two">
+				<p>Two Controller</p>
 				<input ng-model="field" ng-change="change()" />
 			</div>
 		</div>
