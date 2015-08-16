@@ -13,14 +13,14 @@ border:1px solid black;
 
 #myapp h1{
 color:white;
-margin:10px;
+margin:5px;
 font-size:24px;
 text-align:center;
 }
 
 .block{
 padding:10px;
-margin:10px;
+margin:5px;
 background:#00004C;
 }
 
@@ -33,7 +33,7 @@ text-align:center;
 
 .block p{
 color:white;
-margin:10px;
+margin:5px;
 font-size:20px;
 text-align:center;
 }
